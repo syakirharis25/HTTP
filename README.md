@@ -15,7 +15,7 @@ Development of HTTP was initiated by Tim Berners-Lee at CERN in 1989. Developmen
 
 HTTP/1.1 was first documented in RFC 2068 in 1997. That specification was obsoleted by RFC 2616 in 1999, which was likewise replaced by the RFC 7230 family of RFCs in 2014.
 
-HTTP/2 is a more efficient expression of HTTP's semantics "on the wire", and was published in 2015; it is now supported by major web servers and browsers over Transport Layer Security (TLS) using an Application-Layer Protocol Negotiation (ALPN) extension[2] where TLS 1.2 or newer is required.
+HTTP/2 is a more efficient expression of HTTP's semantics "on the wire", and was published in 2015; it is now supported by major web servers and browsers over Transport Layer Security (TLS) using an Application-Layer Protocol Negotiation (ALPN) extension where TLS 1.2 or newer is required.
 
 HTTP/3 is the proposed successor to HTTP/2, which is already in use on the web, using UDP instead of TCP for the underlying transport protocol. Like HTTP/2, it does not obsolete previous major versions of the protocol. Support for HTTP/3 was added to Cloudflare and Google Chrome (Canary build) in September 2019, and can be enabled in the stable versions of Chrome and Firefox (since version 72, January 2020).
 
