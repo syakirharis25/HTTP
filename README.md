@@ -25,6 +25,9 @@ The European Organization for Nuclear Research (French: Organisation européenne
 World Wide Web Consortium (W3C) official website : https://www.w3.org <br />
 Internet Engineering Task Force (IETF) official website : https://ietf.org <br />
 
+**_HTTP developers_**
+Andrew Betts : https://github.com/triblondon
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
