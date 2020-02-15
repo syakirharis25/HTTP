@@ -43,6 +43,7 @@ X-Cache Header Explanation by Stack Overflow : https://stackoverflow.com/questio
 Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing : https://httpwg.org/specs/rfc7230.html <br />
 Content Security Policy Level 3 by W3C : https://w3c.github.io/webappsec-csp/ <br />
 HTTP Strict Transport Security (HSTS) : https://tools.ietf.org/html/rfc6797 <br />
+Fetch : https://fetch.spec.whatwg.org <br />
 
 **_HTTP developers_** <br />
 Andrew Betts : https://github.com/triblondon <br />
