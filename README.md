@@ -58,6 +58,7 @@ HTTP Client Hints : https://httpwg.org/http-extensions/client-hints.html <br />
 What is Transport Layer Security (TLS)? by Zeus Kerravala : https://www.networkworld.com/article/2303073/lan-wan-what-is-transport-layer-security-protocol.html <br />
 An HTTP Status Code for Indicating Hints : https://tools.ietf.org/html/draft-ietf-httpbis-early-hints-05 <br />
 The headers we don't want by Andrew Betts : https://www.fastly.com/blog/headers-we-dont-want <br />
+What is an SSL Certificate? by Network Solutions : http://www.networksolutions.com/education/what-is-an-ssl-certificate/ <br />
 
 **_HTTP developers_** <br />
 Andrew Betts : https://github.com/triblondon <br />
