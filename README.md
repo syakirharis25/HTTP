@@ -25,6 +25,9 @@ The European Organization for Nuclear Research (French: Organisation européenne
 World Wide Web Consortium (W3C) official website : https://www.w3.org <br />
 Internet Engineering Task Force (IETF) official website : https://ietf.org <br />
 
+**_HTTP related tools_**
+Security Headers : https://securityheaders.com <br />
+
 **_HTTP school resources_** <br />
 Øredev : https://oredev.org <br />
 Mozilla MDN Web Docs : https://developer.mozilla.org <br />
