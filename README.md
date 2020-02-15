@@ -68,77 +68,77 @@ Steve Souders : http://stevesouders.com, https://github.com/stevesouders <br />
 
 <a name="statuscodes"></a>
 ## 3. HTTP status codes.
-**_1×× Informational_**
-100 Continue
-101 Switching Protocols
-102 Processing
-2×× Success
-200 OK
-201 Created
-202 Accepted
-203 Non-authoritative Information
-204 No Content
-205 Reset Content
-206 Partial Content
-207 Multi-Status
-208 Already Reported
-226 IM Used
+**_1×× Informational_** <br />
+100 Continue <br />
+101 Switching Protocols <br />
+102 Processing <br />
+2×× Success <br />
+200 OK <br />
+201 Created <br />
+202 Accepted <br />
+203 Non-authoritative Information <br />
+204 No Content <br />
+205 Reset Content <br />
+206 Partial Content <br />
+207 Multi-Status <br />
+208 Already Reported <br />
+226 IM Used <br />
 
-**_3×× Redirection_**
-300 Multiple Choices
-301 Moved Permanently
-302 Found
-303 See Other
-304 Not Modified
-305 Use Proxy
-307 Temporary Redirect
-308 Permanent Redirect
+**_3×× Redirection_** <br />
+300 Multiple Choices <br />
+301 Moved Permanently <br />
+302 Found <br />
+303 See Other <br />
+304 Not Modified <br />
+305 Use Proxy <br />
+307 Temporary Redirect <br />
+308 Permanent Redirect <br />
 
-**_4×× Client Error_**
-400 Bad Request
-401 Unauthorized
-402 Payment Required
-403 Forbidden
-404 Not Found
-405 Method Not Allowed
-406 Not Acceptable
-407 Proxy Authentication Required
-408 Request Timeout
-409 Conflict
-410 Gone
-411 Length Required
-412 Precondition Failed
-413 Payload Too Large
-414 Request-URI Too Long
-415 Unsupported Media Type
-416 Requested Range Not Satisfiable
-417 Expectation Failed
-418 I'm a teapot
-421 Misdirected Request
-422 Unprocessable Entity
-423 Locked
-424 Failed Dependency
-426 Upgrade Required
-428 Precondition Required
-429 Too Many Requests
-431 Request Header Fields Too Large
-444 Connection Closed Without Response
-451 Unavailable For Legal Reasons
-499 Client Closed Request
+**_4×× Client Error_** <br />
+400 Bad Request <br />
+401 Unauthorized <br />
+402 Payment Required <br />
+403 Forbidden <br />
+404 Not Found <br />
+405 Method Not Allowed <br />
+406 Not Acceptable <br />
+407 Proxy Authentication Required <br />
+408 Request Timeout <br />
+409 Conflict <br />
+410 Gone <br />
+411 Length Required <br />
+412 Precondition Failed <br />
+413 Payload Too Large <br />
+414 Request-URI Too Long <br />
+415 Unsupported Media Type <br />
+416 Requested Range Not Satisfiable <br />
+417 Expectation Failed <br />
+418 I'm a teapot <br />
+421 Misdirected Request <br />
+422 Unprocessable Entity <br />
+423 Locked <br />
+424 Failed Dependency <br />
+426 Upgrade Required <br />
+428 Precondition Required <br />
+429 Too Many Requests <br />
+431 Request Header Fields Too Large <br />
+444 Connection Closed Without Response <br />
+451 Unavailable For Legal Reasons <br />
+499 Client Closed Request <br />
 
-**_5×× Server Error_**
-500 Internal Server Error
-501 Not Implemented
-502 Bad Gateway
-503 Service Unavailable
-504 Gateway Timeout
-505 HTTP Version Not Supported
-506 Variant Also Negotiates
-507 Insufficient Storage
-508 Loop Detected
-510 Not Extended
-511 Network Authentication Required
-599 Network Connect Timeout Error
+**_5×× Server Error_** <br />
+500 Internal Server Error <br />
+501 Not Implemented <br />
+502 Bad Gateway <br />
+503 Service Unavailable <br />
+504 Gateway Timeout <br />
+505 HTTP Version Not Supported <br />
+506 Variant Also Negotiates <br />
+507 Insufficient Storage <br />
+508 Loop Detected <br />
+510 Not Extended <br />
+511 Network Authentication Required <br />
+599 Network Connect Timeout Error <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
