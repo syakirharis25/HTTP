@@ -27,15 +27,19 @@ Internet Engineering Task Force (IETF) official website : https://ietf.org <br /
 
 **_HTTP school resources_**
 Øredev : https://oredev.org <br />
+Mozilla MDN Web Docs : https://developer.mozilla.org <br />
 
 **_HTTP question and answer website_**
 Stack Overflow question and answer website : https://stackoverflow.com <br />
+
+**_HTTP documentation by Mozilla_**
+X-Frame-Options by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options <br />
+CSP: frame-ancestors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/frame-ancestors <br />
 
 **_HTTP related articles_**
 How to enable the Telnet Client in Windows 10 by RootUsers : https://www.rootusers.com/how-to-enable-the-telnet-client-in-windows-10/
 How to Install and Use TELNET in Ubuntu : https://quehow.com/how-to-install-and-use-telnet-in-ubuntu/3629.html <br />
 X-Cache Header Explanation : https://stackoverflow.com/questions/3027492/x-cache-header-explanation/29772017 <br />
-X-Frame-Options by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options <br />
 
 **_HTTP developers_**
 Andrew Betts : https://github.com/triblondon <br />
