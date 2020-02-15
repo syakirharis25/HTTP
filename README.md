@@ -38,6 +38,7 @@ Stack Overflow question and answer website : https://stackoverflow.com <br />
 **_HTTP documentation by Mozilla_** <br />
 X-Frame-Options by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options <br />
 CSP: frame-ancestors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/frame-ancestors <br />
+User-Agent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent <br />
 
 **_HTTP related articles_** <br />
 How to enable the Telnet Client in Windows 10 by RootUsers : https://www.rootusers.com/how-to-enable-the-telnet-client-in-windows-10/ <br />
