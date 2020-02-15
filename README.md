@@ -44,6 +44,7 @@ User-Agent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/Header
 Preload by W3C : https://w3c.github.io/preload/ <br />
 Content Security Policy Level 3 by W3C : https://w3c.github.io/webappsec-csp/ <br />
 Server Timing by W3C : https://www.w3.org/TR/server-timing/ <br />
+Feature Policy by W3C : https://w3c.github.io/webappsec-feature-policy/ <br />
 
 **_HTTP related articles_** <br />
 How to enable the Telnet Client in Windows 10 by RootUsers : https://www.rootusers.com/how-to-enable-the-telnet-client-in-windows-10/ <br />
