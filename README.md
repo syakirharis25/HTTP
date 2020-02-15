@@ -53,6 +53,7 @@ HTTP Strict Transport Security (HSTS) : https://tools.ietf.org/html/rfc6797 <br 
 Fetch : https://fetch.spec.whatwg.org <br />
 HTTP Client Hints : https://httpwg.org/http-extensions/client-hints.html <br />
 What is Transport Layer Security (TLS)? by Zeus Kerravala : https://www.networkworld.com/article/2303073/lan-wan-what-is-transport-layer-security-protocol.html <br />
+An HTTP Status Code for Indicating Hints : https://tools.ietf.org/html/draft-ietf-httpbis-early-hints-05 <br />
 
 **_HTTP developers_** <br />
 Andrew Betts : https://github.com/triblondon <br />
