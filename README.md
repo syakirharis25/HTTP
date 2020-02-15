@@ -37,7 +37,7 @@ X-Frame-Options by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/H
 CSP: frame-ancestors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/frame-ancestors <br />
 
 **_HTTP related articles_** <br />
-How to enable the Telnet Client in Windows 10 by RootUsers : https://www.rootusers.com/how-to-enable-the-telnet-client-in-windows-10/
+How to enable the Telnet Client in Windows 10 by RootUsers : https://www.rootusers.com/how-to-enable-the-telnet-client-in-windows-10/ <br />
 How to Install and Use TELNET in Ubuntu : https://quehow.com/how-to-install-and-use-telnet-in-ubuntu/3629.html <br />
 X-Cache Header Explanation by Stack Overflow : https://stackoverflow.com/questions/3027492/x-cache-header-explanation/29772017 <br />
 Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing : https://httpwg.org/specs/rfc7230.html <br />
