@@ -41,6 +41,7 @@ How to enable the Telnet Client in Windows 10 by RootUsers : https://www.rootuse
 How to Install and Use TELNET in Ubuntu : https://quehow.com/how-to-install-and-use-telnet-in-ubuntu/3629.html <br />
 X-Cache Header Explanation by Stack Overflow : https://stackoverflow.com/questions/3027492/x-cache-header-explanation/29772017 <br />
 Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing : https://httpwg.org/specs/rfc7230.html <br />
+Content Security Policy Level 3 by W3C : https://w3c.github.io/webappsec-csp/ <br />
 
 **_HTTP developers_**
 Andrew Betts : https://github.com/triblondon <br />
