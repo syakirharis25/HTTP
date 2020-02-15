@@ -30,7 +30,8 @@ How to enable the Telnet Client in Windows 10 by RootUsers : https://www.rootuse
 How to Install and Use TELNET in Ubuntu : https://quehow.com/how-to-install-and-use-telnet-in-ubuntu/3629.html <br />
 
 **_HTTP developers_**
-Andrew Betts : https://github.com/triblondon
+Andrew Betts : https://github.com/triblondon <br />
+Steve Souders : http://stevesouders.com, https://github.com/stevesouders <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
