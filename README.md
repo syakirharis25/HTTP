@@ -27,6 +27,7 @@ Internet Engineering Task Force (IETF) official website : https://ietf.org <br /
 
 **_HTTP related articles_**
 How to enable the Telnet Client in Windows 10 by RootUsers : https://www.rootusers.com/how-to-enable-the-telnet-client-in-windows-10/
+How to Install and Use TELNET in Ubuntu : https://quehow.com/how-to-install-and-use-telnet-in-ubuntu/3629.html <br />
 
 **_HTTP developers_**
 Andrew Betts : https://github.com/triblondon
