@@ -6,6 +6,7 @@ My works related to Hypertext Transfer Protocol (HTTP).
 2. [Official references websites.](#references)
 3. [HTTP status codes.](#statuscodes)
 4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -141,10 +142,22 @@ Steve Souders : http://stevesouders.com, https://github.com/stevesouders <br />
 599 Network Connect Timeout Error <br />
 
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/HTTP.git
 $ cd HTTP/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 5. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              8              0             27
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
