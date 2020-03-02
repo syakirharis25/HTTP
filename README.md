@@ -5,8 +5,9 @@ My works related to Hypertext Transfer Protocol (HTTP).
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [HTTP status codes.](#statuscodes)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+4. [HTTP developers.](#developers)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -62,10 +63,6 @@ An HTTP Status Code for Indicating Hints : https://tools.ietf.org/html/draft-iet
 The headers we don't want by Andrew Betts : https://www.fastly.com/blog/headers-we-dont-want <br />
 What is an SSL Certificate? by Network Solutions : http://www.networksolutions.com/education/what-is-an-ssl-certificate/ <br />
 HTTP Headers for Dummies by Envato Tut+ : https://code.tutsplus.com/tutorials/http-headers-for-dummies--net-8039 <br />
-
-**_HTTP developers_** <br />
-Andrew Betts : https://github.com/triblondon <br />
-Steve Souders : http://stevesouders.com, https://github.com/stevesouders <br />
 
 <a name="statuscodes"></a>
 ## 3. HTTP status codes.
@@ -141,8 +138,13 @@ Steve Souders : http://stevesouders.com, https://github.com/stevesouders <br />
 511 Network Authentication Required <br />
 599 Network Connect Timeout Error <br />
 
+<a name="developers"></a>
+## 4. HTTP developers.
+Andrew Betts : https://github.com/triblondon <br />
+Steve Souders : http://stevesouders.com, https://github.com/stevesouders <br />
+
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/HTTP.git
@@ -152,7 +154,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
